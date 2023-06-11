@@ -1,6 +1,7 @@
 # ✨ zKeven
 
-Hey, what's up! I'm Keven, an 18-year-old guy who's into programming and all things tech. I don't claim to be a master of many programming languages, but I've dabbled in a few and really enjoy it.
+Hey, how's it going? I'm an 18-year-old guy who's really into programming and everything related to tech. I may not be an expert in multiple programming languages, but I've got a good handle on a few of them.
 
 ---
 ### Languajes
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
