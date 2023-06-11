@@ -1,4 +1,4 @@
-# ✨ zKeven
+# ✨ Keven
 
 Hey, how's it going? I'm an 18-year-old guy who's really into programming and everything related to tech. I may not be an expert in multiple programming languages, but I've got a good handle on a few of them.
 
